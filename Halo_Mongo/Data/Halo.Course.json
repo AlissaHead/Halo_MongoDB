@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d29"
+  },
+  "_Id": 1,
+  "Students": [
+    3,
+    7,
+    9
+  ],
+  "AcademicTerm": "Spring",
+  "CreditValue": 3,
+  "Professor": 7,
+  "CourseGrade": [
+    {
+      "Student": 5,
+      "Grade": 90
+    },
+    {
+      "Student": 7,
+      "Grade": 87
+    },
+    {
+      "Student": 2,
+      "Grade": 86
+    }
+  ],
+  "Assignment": [
+    8,
+    1,
+    7
+  ],
+  "Department": 6
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2a"
+  },
+  "_Id": 2,
+  "Students": [
+    2,
+    5,
+    5
+  ],
+  "AcademicTerm": "Spring",
+  "CreditValue": 3,
+  "Professor": 4,
+  "CourseGrade": [
+    {
+      "Student": 8,
+      "Grade": 33
+    },
+    {
+      "Student": 6,
+      "Grade": 60
+    },
+    {
+      "Student": 1,
+      "Grade": 63
+    }
+  ],
+  "Assignment": [
+    9,
+    2,
+    6
+  ],
+  "Department": 3
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2b"
+  },
+  "_Id": 3,
+  "Students": [
+    4,
+    9,
+    4
+  ],
+  "AcademicTerm": "Spring",
+  "CreditValue": 2,
+  "Professor": 2,
+  "CourseGrade": [
+    {
+      "Student": 5,
+      "Grade": 36
+    },
+    {
+      "Student": 1,
+      "Grade": 67
+    },
+    {
+      "Student": 9,
+      "Grade": 93
+    }
+  ],
+  "Assignment": [
+    7,
+    1,
+    6
+  ],
+  "Department": 6
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2c"
+  },
+  "_Id": 4,
+  "Students": [
+    6,
+    4,
+    5
+  ],
+  "AcademicTerm": "Summer",
+  "CreditValue": 2,
+  "Professor": 5,
+  "CourseGrade": [
+    {
+      "Student": 1,
+      "Grade": 37
+    },
+    {
+      "Student": 4,
+      "Grade": 66
+    },
+    {
+      "Student": 6,
+      "Grade": 93
+    }
+  ],
+  "Assignment": [
+    4,
+    5,
+    2
+  ],
+  "Department": 2
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2d"
+  },
+  "_Id": 5,
+  "Students": [
+    8,
+    3,
+    9
+  ],
+  "AcademicTerm": "Summer",
+  "CreditValue": 3,
+  "Professor": 6,
+  "CourseGrade": [
+    {
+      "Student": 9,
+      "Grade": 47
+    },
+    {
+      "Student": 5,
+      "Grade": 31
+    },
+    {
+      "Student": 1,
+      "Grade": 30
+    }
+  ],
+  "Assignment": [
+    4,
+    6,
+    9
+  ],
+  "Department": 7
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2e"
+  },
+  "_Id": 6,
+  "Students": [
+    3,
+    6,
+    3
+  ],
+  "AcademicTerm": "Fall",
+  "CreditValue": 3,
+  "Professor": 1,
+  "CourseGrade": [
+    {
+      "Student": 2,
+      "Grade": 97
+    },
+    {
+      "Student": 2,
+      "Grade": 69
+    },
+    {
+      "Student": 1,
+      "Grade": 18
+    }
+  ],
+  "Assignment": [
+    2,
+    8,
+    1
+  ],
+  "Department": 5
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d2f"
+  },
+  "_Id": 7,
+  "Students": [
+    9,
+    1,
+    6
+  ],
+  "AcademicTerm": "Summer",
+  "CreditValue": 3,
+  "Professor": 3,
+  "CourseGrade": [
+    {
+      "Student": 9,
+      "Grade": 43
+    },
+    {
+      "Student": 6,
+      "Grade": 80
+    },
+    {
+      "Student": 8,
+      "Grade": 59
+    }
+  ],
+  "Assignment": [
+    2,
+    2,
+    6
+  ],
+  "Department": 6
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d30"
+  },
+  "_Id": 8,
+  "Students": [
+    6,
+    4,
+    2
+  ],
+  "AcademicTerm": "Fall",
+  "CreditValue": 2,
+  "Professor": 7,
+  "CourseGrade": [
+    {
+      "Student": 7,
+      "Grade": 85
+    },
+    {
+      "Student": 3,
+      "Grade": 54
+    },
+    {
+      "Student": 2,
+      "Grade": 97
+    }
+  ],
+  "Assignment": [
+    1,
+    5,
+    4
+  ],
+  "Department": 8
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d31"
+  },
+  "_Id": 9,
+  "Students": [
+    9,
+    7,
+    4
+  ],
+  "AcademicTerm": "Summer",
+  "CreditValue": 4,
+  "Professor": 4,
+  "CourseGrade": [
+    {
+      "Student": 8,
+      "Grade": 41
+    },
+    {
+      "Student": 8,
+      "Grade": 60
+    },
+    {
+      "Student": 4,
+      "Grade": 9
+    }
+  ],
+  "Assignment": [
+    5,
+    2,
+    9
+  ],
+  "Department": 5
+},
+{
+  "_id": {
+    "$oid": "655fcdacbf77542dbda84d32"
+  },
+  "_Id": 10,
+  "Students": [
+    8,
+    2,
+    5
+  ],
+  "AcademicTerm": "Spring",
+  "CreditValue": 3,
+  "Professor": 9,
+  "CourseGrade": [
+    {
+      "Student": 3,
+      "Grade": 69
+    },
+    {
+      "Student": 4,
+      "Grade": 29
+    },
+    {
+      "Student": 3,
+      "Grade": 59
+    }
+  ],
+  "Assignment": [
+    1,
+    5,
+    4
+  ],
+  "Department": 6
+}]

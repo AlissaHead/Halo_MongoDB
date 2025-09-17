@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d09"
+  },
+  "_Id": 1,
+  "Dep_Name": "Science",
+  "Dep_LeadEmail": [
+    "fermentum.arcu@yahoo.net"
+  ],
+  "Dep_LeadPhoneNum": "(318) 742-0199",
+  "Dep_Location": "-76.2690276352, -105.166320128",
+  "Students": [
+    9,
+    9,
+    3
+  ],
+  "LeadProfessor": {
+    "FName": "Joe",
+    "LName": "Smith",
+    "Email": "JSmith23@My.Gcu.edu"
+  },
+  "Professors": [
+    4,
+    2,
+    6
+  ],
+  "Course": [
+    2,
+    8,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0a"
+  },
+  "_Id": 2,
+  "Dep_Name": "Business",
+  "Dep_LeadEmail": [
+    "aliquet@protonmail.edu"
+  ],
+  "Dep_LeadPhoneNum": "1-425-604-8349",
+  "Dep_Location": "-8.4722328576, -155.6641956864",
+  "Students": [
+    3,
+    2,
+    5
+  ],
+  "LeadProfessor": {
+    "FName": "Alex",
+    "LName": "Rockstar",
+    "Email": "AlRock@My.Gcu.edu"
+  },
+  "Professors": [
+    2,
+    8,
+    8
+  ],
+  "Course": [
+    2,
+    1,
+    1
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0b"
+  },
+  "_Id": 3,
+  "Dep_Name": "Mathematics",
+  "Dep_LeadEmail": [
+    "consectetuer.ipsum@icloud.com"
+  ],
+  "Dep_LeadPhoneNum": "1-840-418-6184",
+  "Dep_Location": "85.4091012096, -100.0338299904",
+  "Students": [
+    7,
+    5,
+    7
+  ],
+  "LeadProfessor": {
+    "FName": "Peter",
+    "LName": "Guy",
+    "Email": "PeterG@My.Gcu.edu"
+  },
+  "Professors": [
+    9,
+    4,
+    2
+  ],
+  "Course": [
+    2,
+    8,
+    2
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0c"
+  },
+  "_Id": 4,
+  "Dep_Name": "Philosophy",
+  "Dep_LeadEmail": [
+    "at.nisi@protonmail.couk"
+  ],
+  "Dep_LeadPhoneNum": "(422) 115-2248",
+  "Dep_Location": "57.361680384, -0.6912121856",
+  "Students": [
+    8,
+    6,
+    8
+  ],
+  "LeadProfessor": {
+    "FName": "Rana",
+    "LName": "Martinusen",
+    "Email": "RMart32@My.Gcu.edu"
+  },
+  "Professors": [
+    6,
+    1,
+    3
+  ],
+  "Course": [
+    1,
+    9,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0d"
+  },
+  "_Id": 5,
+  "Dep_Name": "Arts",
+  "Dep_LeadEmail": [
+    "malesuada.augue@aol.ca"
+  ],
+  "Dep_LeadPhoneNum": "1-715-566-8519",
+  "Dep_Location": "-77.2366175232, 151.1326301184",
+  "Students": [
+    3,
+    8,
+    9
+  ],
+  "LeadProfessor": {
+    "FName": "Tyler",
+    "LName": "Jankins",
+    "Email": "TyJ68@My.Gcu.edu"
+  },
+  "Professors": [
+    5,
+    1,
+    7
+  ],
+  "Course": [
+    3,
+    6,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0e"
+  },
+  "_Id": 6,
+  "Dep_Name": "Arts",
+  "Dep_LeadEmail": [
+    "ut.molestie.in@outlook.edu"
+  ],
+  "Dep_LeadPhoneNum": "1-832-682-4867",
+  "Dep_Location": "-30.2982398976, 151.0651158528",
+  "Students": [
+    7,
+    8,
+    9
+  ],
+  "LeadProfessor": {
+    "FName": "Joel",
+    "LName": "Martinez",
+    "Email": "JMarti231@My.Gcu.edu"
+  },
+  "Professors": [
+    1,
+    1,
+    1
+  ],
+  "Course": [
+    3,
+    3,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d0f"
+  },
+  "_Id": 7,
+  "Dep_Name": "Business",
+  "Dep_LeadEmail": [
+    "nam.nulla.magna@icloud.couk"
+  ],
+  "Dep_LeadPhoneNum": "(588) 511-6305",
+  "Dep_Location": "35.4668080128, 138.3302621184",
+  "Students": [
+    5,
+    7,
+    1
+  ],
+  "LeadProfessor": {
+    "FName": "Carrol",
+    "LName": "Ramirez",
+    "Email": "Cram2@My.Gcu.edu"
+  },
+  "Professors": [
+    6,
+    7,
+    5
+  ],
+  "Course": [
+    8,
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d10"
+  },
+  "_Id": 8,
+  "Dep_Name": "Mathematics",
+  "Dep_LeadEmail": [
+    "luctus@google.org"
+  ],
+  "Dep_LeadPhoneNum": "1-627-242-6866",
+  "Dep_Location": "-75.1432384512, 45.8108143616",
+  "Students": [
+    1,
+    8,
+    7
+  ],
+  "LeadProfessor": {
+    "FName": "Ceasar",
+    "LName": "Salad",
+    "Email": "CeaSal1@My.Gcu.edu"
+  },
+  "Professors": [
+    1,
+    6,
+    8
+  ],
+  "Course": [
+    8,
+    2,
+    8
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d11"
+  },
+  "_Id": 9,
+  "Dep_Name": "Arts",
+  "Dep_LeadEmail": [
+    "adipiscing.elit.curabitur@aol.couk"
+  ],
+  "Dep_LeadPhoneNum": "(435) 818-5377",
+  "Dep_Location": "-6.199169536, -19.2386634752",
+  "Students": [
+    7,
+    2,
+    8
+  ],
+  "LeadProfessor": {
+    "FName": "Sara",
+    "LName": "Fria",
+    "Email": "SF7@My.Gcu.edu"
+  },
+  "Professors": [
+    1,
+    9,
+    8
+  ],
+  "Course": [
+    1,
+    4,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "655d72e3bf77542dbda84d12"
+  },
+  "_Id": 10,
+  "Dep_Name": "Science",
+  "Dep_LeadEmail": [
+    "quisque.varius@icloud.org"
+  ],
+  "Dep_LeadPhoneNum": "(416) 726-3230",
+  "Dep_Location": "25.418964992, -61.1144752128",
+  "Students": [
+    6,
+    2,
+    6
+  ],
+  "LeadProfessor": {
+    "FName": "Justin",
+    "LName": "Dog",
+    "Email": "JDog@My.Gcu.edu"
+  },
+  "Professors": [
+    5,
+    5,
+    5
+  ],
+  "Course": [
+    9,
+    9,
+    1
+  ]
+}]

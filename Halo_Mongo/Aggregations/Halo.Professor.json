@@ -1,0 +1,251 @@
+[{
+  "_id": 1,
+  "FName": "Bradley",
+  "LName": "Robbins",
+  "PhoneNumber": [
+    "1-494-561-7509",
+    "1-916-472-5549",
+    "1-226-611-2894"
+  ],
+  "email": "elit.sed.consequat@google.com",
+  "OfficeRoom": 150,
+  "Department": {
+    "_id": 10,
+    "Dep_Name": "Tech",
+    "PhoneNumber": "(217) 197-6656",
+    "Location": "Ciudad Apodaca"
+  },
+  "Password": "Aenean",
+  "Course": [
+    1,
+    2
+  ],
+  "Assignment": [
+    10,
+    9
+  ]
+},
+{
+  "_id": 2,
+  "FName": "Jenette",
+  "LName": "Buckley",
+  "PhoneNumber": [
+    "1-702-570-2782"
+  ],
+  "email": "proin.eget@protonmail.net",
+  "OfficeRoom": 117,
+  "Department": {
+    "_id": 20,
+    "Dep_Name": "Accounting",
+    "PhoneNumber": "(686) 214-4814",
+    "Location": "Wrexham"
+  },
+  "Password": "molstie55",
+  "Course": [
+    3
+  ],
+  "Assignment": [
+    8,
+    7
+  ]
+},
+{
+  "_id": 3,
+  "FName": "Hayfa",
+  "LName": "Griffin",
+  "PhoneNumber": [
+    "1-544-854-1511",
+    "(426) 921-4094"
+  ],
+  "email": "aliquam.nisl@protonmail.edu",
+  "OfficeRoom": 163,
+  "Department": {
+    "_id": 10,
+    "Dep_Name": "Tech",
+    "PhoneNumber": "(217) 197-6656",
+    "Location": "Ciudad Apodaca"
+  },
+  "Password": "luuut10236",
+  "Course": [
+    2,
+    5
+  ],
+  "Assignment": [
+    9
+  ]
+},
+{
+  "_id": 4,
+  "FName": "Jared",
+  "LName": "Mayo",
+  "PhoneNumber": [
+    "(657) 604-1196",
+    "(366) 910-4716"
+  ],
+  "email": "elit.elit.fermentum@yahoo.couk",
+  "OfficeRoom": 139,
+  "Department": {
+    "_id": 20,
+    "Dep_Name": "Accounting",
+    "PhoneNumber": "(686) 214-4814",
+    "Location": "Wrexham"
+  },
+  "Password": "erat.",
+  "Course": [
+    3,
+    6
+  ],
+  "Assignment": [
+    5
+  ]
+},
+{
+  "_id": 5,
+  "FName": "Francesca",
+  "LName": "Benjamin",
+  "PhoneNumber": [
+    "1-286-737-5240"
+  ],
+  "email": "nulla.interdum.curabitur@protonmail.couk",
+  "OfficeRoom": 120,
+  "Department": {
+    "_id": 50,
+    "Dep_Name": "Nursing",
+    "PhoneNumber": "(938) 257-6794",
+    "Location": "Gonars"
+  },
+  "Password": "uweHFNut57",
+  "Course": [
+    7,
+    8
+  ],
+  "Assignment": [
+    4,
+    3
+  ]
+},
+{
+  "_id": 6,
+  "FName": "Coby",
+  "LName": "Beach",
+  "PhoneNumber": [
+    "1-316-221-9180",
+    "1-352-388-2151",
+    "(470) 238-1212"
+  ],
+  "email": "nascetur.ridiculus@outlook.edu",
+  "OfficeRoom": 171,
+  "Department": {
+    "_id": 10,
+    "Dep_Name": "Tech",
+    "PhoneNumber": "(217) 197-6656",
+    "Location": "Ciudad Apodaca"
+  },
+  "Password": "morbi",
+  "Course": [
+    1,
+    2
+  ],
+  "Assignment": [
+    10,
+    9
+  ]
+},
+{
+  "_id": 7,
+  "FName": "Sonya",
+  "LName": "Larsen",
+  "PhoneNumber": [
+    "1-373-235-0811",
+    "1-543-510-4128"
+  ],
+  "email": "est.nunc@protonmail.edu",
+  "OfficeRoom": 169,
+  "Department": {
+    "_id": 70,
+    "Dep_Name": "Advertising",
+    "PhoneNumber": "1-886-395-6887",
+    "Location": "Chimbote"
+  },
+  "Password": "sed",
+  "Course": [
+    9
+  ],
+  "Assignment": [
+    2,
+    1
+  ]
+},
+{
+  "_id": 8,
+  "FName": "Cailin",
+  "LName": "Mitchell",
+  "PhoneNumber": [
+    "1-326-693-2295"
+  ],
+  "email": "molestie@google.com",
+  "OfficeRoom": 107,
+  "Department": {
+    "_id": 80,
+    "Dep_Name": "Finances",
+    "PhoneNumber": "1-562-482-8372",
+    "Location": "Płock"
+  },
+  "Password": "mattis.",
+  "Course": [
+    10
+  ],
+  "Assignment": [
+    6
+  ]
+},
+{
+  "_id": 9,
+  "FName": "Ebony",
+  "LName": "George",
+  "PhoneNumber": [
+    "(215) 519-5627",
+    "1-642-724-8452"
+  ],
+  "email": "ipsum.dolor@icloud.edu",
+  "OfficeRoom": 195,
+  "Department": {
+    "_id": 80,
+    "Dep_Name": "Finances",
+    "PhoneNumber": "1-562-482-8372",
+    "Location": "Płock"
+  },
+  "Password": "arcu.",
+  "Course": [
+    10
+  ],
+  "Assignment": [
+    6
+  ]
+},
+{
+  "_id": 10,
+  "FName": "Orson",
+  "LName": "Fuentes",
+  "PhoneNumber": [
+    "1-347-361-1595",
+    "(156) 947-4188"
+  ],
+  "email": "lectus@yahoo.edu",
+  "OfficeRoom": 193,
+  "Department": {
+    "_id": 20,
+    "Dep_Name": "Accounting",
+    "PhoneNumber": "(686) 214-4814",
+    "Location": "Wrexham"
+  },
+  "Password": "litora",
+  "Course": [
+    3,
+    6
+  ],
+  "Assignment": [
+    8,
+    7
+  ]
+}]

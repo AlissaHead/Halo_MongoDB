@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d15"
+  },
+  "_Id": 1,
+  "AName": "dui.",
+  "ADueDate": "Dec 27, 2024",
+  "AScore": 54,
+  "AType": "euismod",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "Tardy",
+  "Course": 4,
+  "Student": [
+    3,
+    8,
+    6
+  ],
+  "Professor": 4
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d16"
+  },
+  "_Id": 2,
+  "AName": "blandit",
+  "ADueDate": "Nov 12, 2023",
+  "AScore": 29,
+  "AType": "aliquet.",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "False",
+  "Course": 7,
+  "Student": [
+    1,
+    1,
+    7
+  ],
+  "Professor": 4
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d17"
+  },
+  "_Id": 3,
+  "AName": "commodo",
+  "ADueDate": "Apr 25, 2024",
+  "AScore": 42,
+  "AType": "lobortis",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "True",
+  "Course": 10,
+  "Student": [
+    3,
+    5,
+    3
+  ],
+  "Professor": 7
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d18"
+  },
+  "_Id": 4,
+  "AName": "et",
+  "ADueDate": "Apr 1, 2025",
+  "AScore": 62,
+  "AType": "sit",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "False",
+  "Course": 4,
+  "Student": [
+    2,
+    1,
+    5
+  ],
+  "Professor": 1
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d19"
+  },
+  "_Id": 5,
+  "AName": "Class",
+  "ADueDate": "Jan 26, 2025",
+  "AScore": 89,
+  "AType": "auctor.",
+  "Submission_Success": "Submitted",
+  "Submission_Tardy": "False",
+  "Course": 3,
+  "Student": [
+    8,
+    8,
+    2
+  ],
+  "Professor": 8
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d1a"
+  },
+  "_Id": 6,
+  "AName": "sit",
+  "ADueDate": "Oct 18, 2024",
+  "AScore": 67,
+  "AType": "ornare",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "Tardy",
+  "Course": 9,
+  "Student": [
+    2,
+    9,
+    3
+  ],
+  "Professor": 7
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d1b"
+  },
+  "_Id": 7,
+  "AName": "leo",
+  "ADueDate": "Oct 9, 2023",
+  "AScore": 95,
+  "AType": "egestas.",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "False",
+  "Course": 6,
+  "Student": [
+    3,
+    2,
+    5
+  ],
+  "Professor": 4
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d1c"
+  },
+  "_Id": 8,
+  "AName": "odio",
+  "ADueDate": "Aug 23, 2024",
+  "AScore": 100,
+  "AType": "augue,",
+  "Submission_Success": "Not-Submitted",
+  "Submission_Tardy": "False",
+  "Course": 2,
+  "Student": [
+    7,
+    5,
+    7
+  ],
+  "Professor": 6
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d1d"
+  },
+  "_Id": 9,
+  "AName": "augue",
+  "ADueDate": "Mar 11, 2025",
+  "AScore": 77,
+  "AType": "eros.",
+  "Submission_Success": "Submitted",
+  "Submission_Tardy": "False",
+  "Course": 8,
+  "Student": [
+    6,
+    2,
+    6
+  ],
+  "Professor": 6
+},
+{
+  "_id": {
+    "$oid": "655d7914bf77542dbda84d1e"
+  },
+  "_Id": 10,
+  "AName": "dictum",
+  "ADueDate": "Feb 22, 2025",
+  "AScore": 15,
+  "AType": "porta",
+  "Submission_Success": "Submitted",
+  "Submission_Tardy": "True",
+  "Course": 8,
+  "Student": [
+    7,
+    2,
+    5
+  ],
+  "Professor": 10
+}]

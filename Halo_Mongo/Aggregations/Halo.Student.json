@@ -1,0 +1,493 @@
+[{
+  "_id": 1,
+  "FName": "Bob",
+  "LName": "Swanson",
+  "PhoneNumber": "(726) 734-5320",
+  "Email": [
+    "BSwanson@gmail.com",
+    "BobS@my.gcu.edu"
+  ],
+  "Credits": 27,
+  "GPA": 3.6,
+  "Courses": [
+    151,
+    152,
+    153,
+    154,
+    155
+  ],
+  "Tuition": 17800,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "233 Lind Lakes",
+      "City": "South Robburgh",
+      "Zipcode": "14452",
+      "State": "MN"
+    }
+  ],
+  "Major": "Health and Medicine",
+  "Password": "Dababy420",
+  "Professors": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Department": 6,
+  "Assignments": [
+    101,
+    102,
+    103,
+    104,
+    105
+  ]
+},
+{
+  "_id": 2,
+  "FName": "Johny",
+  "LName": "Silvers",
+  "PhoneNumber": "(808) 420-6969",
+  "Email": [
+    "JSilvers@gmail.com",
+    "JohnS@my.gcu.edu"
+  ],
+  "Credits": 41,
+  "GPA": 3,
+  "Courses": [
+    151,
+    154,
+    156,
+    159
+  ],
+  "Tuition": 10000,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "740 Loco Center",
+      "City": "Santo Domingo",
+      "Zipcode": "29875",
+      "State": "CA"
+    },
+    {
+      "StreetAddress": "111 Kerry Ave",
+      "City": "Watson",
+      "Zipcode": "28999",
+      "State": "CA"
+    }
+  ],
+  "Major": "Music and Arts",
+  "Password": "Rocker'23",
+  "Professors": [
+    1,
+    4,
+    6,
+    9
+  ],
+  "Department": 2,
+  "Assignments": [
+    101,
+    104,
+    106,
+    109
+  ]
+},
+{
+  "_id": 3,
+  "FName": "Shawn",
+  "LName": "Immon",
+  "PhoneNumber": "(873) 690-3434",
+  "Email": [
+    "SImmon@gmail.com",
+    "ShawnI@my.gcu.edu"
+  ],
+  "Credits": 12,
+  "GPA": 2.7,
+  "Courses": [
+    151,
+    152,
+    154,
+    156,
+    159
+  ],
+  "Tuition": 18800,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "Apt. 312 589 Steuber Garden",
+      "City": "New Renate",
+      "Zipcode": "29995-9005",
+      "State": "MT"
+    },
+    {
+      "StreetAddress": "8631 Hammes Course",
+      "City": "Kassulkehaven",
+      "Zipcode": "73382-6457",
+      "State": "KY"
+    }
+  ],
+  "Major": "Business",
+  "Password": "MONERS101!",
+  "Professors": [
+    1,
+    2,
+    4,
+    6,
+    9
+  ],
+  "Department": 4,
+  "Assignments": [
+    101,
+    102,
+    104,
+    106,
+    109
+  ]
+},
+{
+  "_id": 4,
+  "FName": "Lenard",
+  "LName": "Lemons",
+  "PhoneNumber": "(543) 202-2002",
+  "Email": [
+    "LLemons@gmail.com",
+    "LenardL@my.gcu.edu"
+  ],
+  "Credits": 33,
+  "GPA": 3.8,
+  "Courses": [
+    151,
+    152,
+    154,
+    156
+  ],
+  "Tuition": 17800,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "843 Lenore Extension",
+      "City": "Laverneland",
+      "Zipcode": "24405",
+      "State": "ID"
+    },
+    {
+      "StreetAddress": "Suite 396 359 Carrol Forges",
+      "City": "Schroederfurt",
+      "Zipcode": "63366",
+      "State": "NE"
+    }
+  ],
+  "Major": "Music and Arts",
+  "Password": "CheloNUMBA1",
+  "Professors": [
+    1,
+    2,
+    4,
+    6
+  ],
+  "Department": 2,
+  "Assignments": [
+    101,
+    102,
+    104,
+    106
+  ]
+},
+{
+  "_id": 5,
+  "FName": "Ballas",
+  "LName": "Oro",
+  "PhoneNumber": "(214) 641-1455",
+  "Email": [
+    "BOro@gmail.com",
+    "BallasO@my.gcu.edu"
+  ],
+  "Credits": 25,
+  "GPA": 3,
+  "Courses": [
+    150,
+    153,
+    154,
+    158
+  ],
+  "Tuition": 16090,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "7039 Donnelly Turnpike",
+      "City": "Bergefurt",
+      "Zipcode": "74554-8652",
+      "State": "MT"
+    },
+    {
+      "StreetAddress": "Suite 344 86987 Kerstin Turnpike",
+      "City": "Port Corrinne",
+      "Zipcode": "60181-1808",
+      "State": "ND"
+    }
+  ],
+  "Major": "Engineering",
+  "Password": "Golden10rd5",
+  "Professors": [
+    0,
+    3,
+    4,
+    8
+  ],
+  "Department": 5,
+  "Assignments": [
+    100,
+    103,
+    104,
+    108
+  ]
+},
+{
+  "_id": 6,
+  "FName": "Amanda",
+  "LName": "Holly",
+  "PhoneNumber": "(566) 555-6655",
+  "Email": [
+    "AHolly@gmail.com",
+    "AmandasH@my.gcu.edu"
+  ],
+  "Credits": 30,
+  "GPA": 3.6,
+  "Courses": [
+    150,
+    157,
+    158,
+    159
+  ],
+  "Tuition": 13900,
+  "Gender": "Female",
+  "Adresses": [
+    {
+      "StreetAddress": "774 Willie Key",
+      "City": "Ellafort",
+      "Zipcode": "73915-9511",
+      "State": "ME"
+    },
+    {
+      "StreetAddress": "6561 Hyatt Green",
+      "City": "North Manside",
+      "Zipcode": "58400",
+      "State": "WA"
+    }
+  ],
+  "Major": "Engineering",
+  "Password": "Sparr0ws&Cr0ws",
+  "Professors": [
+    0,
+    7,
+    8,
+    9
+  ],
+  "Department": 5,
+  "Assignments": [
+    100,
+    107,
+    108,
+    109
+  ]
+},
+{
+  "_id": 7,
+  "FName": "Santos",
+  "LName": "Blanco",
+  "PhoneNumber": "(566) 555-6655",
+  "Email": [
+    "SBlanco@gmail.com",
+    "SantosB@my.gcu.edu"
+  ],
+  "Credits": 80,
+  "GPA": 3.6,
+  "Courses": [
+    151,
+    152,
+    153,
+    155,
+    157
+  ],
+  "Tuition": 9000,
+  "Gender": "Female",
+  "Adresses": [
+    {
+      "StreetAddress": "8030 Fadel Turnpike",
+      "City": "New Risa",
+      "Zipcode": "41156-5784",
+      "State": "NM"
+    },
+    {
+      "StreetAddress": "45493 Ernesto Street",
+      "City": "Mauroborough",
+      "Zipcode": "37588",
+      "State": "OR"
+    }
+  ],
+  "Major": "Health and Medicine",
+  "Password": "SoloGOAT",
+  "Professors": [
+    1,
+    2,
+    3,
+    5,
+    7
+  ],
+  "Department": 6,
+  "Assignments": [
+    101,
+    102,
+    103,
+    105,
+    107
+  ]
+},
+{
+  "_id": 8,
+  "FName": "Arthur",
+  "LName": "Rockwell",
+  "PhoneNumber": "(232) 900-6789",
+  "Email": [
+    "ARockwell@gmail.com",
+    "ArthurRB@my.gcu.edu"
+  ],
+  "Credits": 65,
+  "GPA": 3.3,
+  "Courses": [
+    151,
+    152,
+    153,
+    155
+  ],
+  "Tuition": 17800,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "4032 Janie Junctions",
+      "City": "North Tomas",
+      "Zipcode": "65241-7305",
+      "State": "WA"
+    },
+    {
+      "StreetAddress": "38480 Hills Row",
+      "City": "North Amoshaven",
+      "Zipcode": "91290",
+      "State": "ID"
+    }
+  ],
+  "Major": "Psychology",
+  "Password": "12rule",
+  "Professors": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "Department": 1,
+  "Assignments": [
+    101,
+    102,
+    103,
+    105
+  ]
+},
+{
+  "_id": 9,
+  "FName": "Riley",
+  "LName": "Kekilape",
+  "PhoneNumber": "(808) 700-1533",
+  "Email": [
+    "RKekilape@gmail.com",
+    "RileyK@my.gcu.edu"
+  ],
+  "Credits": 101,
+  "GPA": 3,
+  "Courses": [
+    150,
+    151,
+    157,
+    159
+  ],
+  "Tuition": 15500,
+  "Gender": "Male",
+  "Adresses": [
+    {
+      "StreetAddress": "Suite 116 10508 Chara Island",
+      "City": "Kozeyland",
+      "Zipcode": "53049-6707",
+      "State": "MT"
+    },
+    {
+      "StreetAddress": "18600 Wiegand Mews",
+      "City": "New Vetastad",
+      "Zipcode": "40629",
+      "State": "NM"
+    }
+  ],
+  "Major": "Liberal Arts",
+  "Password": "LeComSur",
+  "Professors": [
+    0,
+    1,
+    7,
+    9
+  ],
+  "Department": 7,
+  "Assignments": [
+    100,
+    101,
+    107,
+    109
+  ]
+},
+{
+  "_id": 10,
+  "FName": "Iyara",
+  "LName": "Canine",
+  "PhoneNumber": "(421) 444-4304",
+  "Email": [
+    "ICanine@gmail.com",
+    "IyaraC@my.gcu.edu"
+  ],
+  "Credits": 28,
+  "GPA": 2.9,
+  "Courses": [
+    151,
+    152,
+    153,
+    154
+  ],
+  "Tuition": 17800,
+  "Gender": "Female",
+  "Adresses": [
+    {
+      "StreetAddress": "17159 Monte Forge",
+      "City": "Brookeview",
+      "Zipcode": "48972-7916",
+      "State": "DE"
+    },
+    {
+      "StreetAddress": "Apt. 394 2264 Jeanice Bypass",
+      "City": "Kossborough",
+      "Zipcode": "07160-7172",
+      "State": "DE"
+    }
+  ],
+  "Major": "History",
+  "Password": "ShrigmaBls",
+  "Professors": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "Department": 9,
+  "Assignments": [
+    101,
+    102,
+    103,
+    104
+  ]
+}]
